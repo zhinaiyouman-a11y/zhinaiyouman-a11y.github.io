@@ -2,9 +2,9 @@
 <html>
   <head>
     <style>
-		h1 {
+		body {
 			padding: 10px;
-			color: #00A0A0;
+			background-color: #00A0A0;
 			}
 	</style>
   </head>
