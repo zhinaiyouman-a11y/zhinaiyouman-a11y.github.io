@@ -4,8 +4,8 @@
     <style>
 		h2 {
 			padding: 20px;
-			color: #55d6d1;
-			border: dotted;
+			color: #00A0A0;
+			border: solid;
 		}
 	</style>
   </head>
