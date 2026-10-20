@@ -4,12 +4,7 @@
     <style>
 		body {
 			padding-top: 50px;
-			background-color: skyblue;
-		}
-
-		.starter-template {
-			padding: 40px 15px;
-			background-color: white;
+			color: skyblue;
 		}
 	</style>
   </head>
