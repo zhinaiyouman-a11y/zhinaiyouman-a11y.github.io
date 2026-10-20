@@ -4,7 +4,7 @@
     <style>
 		body {
 			padding-top: 50px;
-			color: skyblue;
+			color: #55d6f1;
 		}
 	</style>
   </head>
