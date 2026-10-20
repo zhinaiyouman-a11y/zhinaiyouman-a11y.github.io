@@ -5,6 +5,7 @@
 		body {
 			padding: 10px;
 			background-color: #005E7E;
+			color: #FFFFFF;
 			}
 	</style>
   </head>
