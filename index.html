@@ -3,8 +3,8 @@
   <head>
     <style>
 		h2 {
-			padding: 50px;
-			color: #55d6f1;
+			padding: 20px;
+			color: #55d6d1;
 			border: dotted;
 		}
 	</style>
