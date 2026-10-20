@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-		body {
+		h2 {
 			padding: 50px;
 			color: #55d6f1;
 		}
