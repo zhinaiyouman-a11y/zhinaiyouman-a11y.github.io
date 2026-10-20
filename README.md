@@ -3,7 +3,7 @@
   <head>
     <style>
 		body {
-			padding-top: 50px;
+			padding: 50px;
 			color: #55d6f1;
 		}
 	</style>
