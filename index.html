@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-		h2 {
+		h1 {
 			padding: 10px;
 			color: #00A0A0;
 			border: solid;
