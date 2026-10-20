@@ -5,8 +5,7 @@
 		h1 {
 			padding: 10px;
 			color: #00A0A0;
-			border: solid;
-		}
+			}
 	</style>
   </head>
   <body>
