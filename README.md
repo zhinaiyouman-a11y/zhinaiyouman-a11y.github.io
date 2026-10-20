@@ -4,7 +4,7 @@
     <style>
 		body {
 			padding: 10px;
-			background-color: #00A0A0;
+			background-color: #005E7E;
 			}
 	</style>
   </head>
