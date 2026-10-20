@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <style>
+		body {
+			padding-top: 50px;
+			background-color: skyblue;
+		}
+
+		.starter-template {
+			padding: 40px 15px;
+			background-color: white;
+		}
+	</style>
   </head>
   <body>
    <h1> # zhinaiyouman-a11y.github.io</h1>
