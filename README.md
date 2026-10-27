@@ -3,10 +3,8 @@
   <head>
     <style>
 		h1 {
-			padding: 10px;
 			background-color: #005E7E;
-			color: white;
-			}
+		   }			}
 	</style>
   </head>
   <body>
