@@ -7,7 +7,7 @@
 			color: white;
 		   }
 		h2 {
-		    padding: 50px;
+		    padding: 10px;
 		    color: #55d6f1;
 		    border-bottom: 1px solid #55d6f1;
 　　　　　　}
