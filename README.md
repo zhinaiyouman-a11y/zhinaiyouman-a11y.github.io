@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-		body {
+		h1 {
 			padding: 10px;
 			background-color: #005E7E;
 			color: white;
