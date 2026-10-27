@@ -4,7 +4,10 @@
     <style>
 		h1 {
 			background-color: #005E7E;
-		   }			}
+		   }
+		body{
+			color: white;
+		}
 	</style>
   </head>
   <body>
