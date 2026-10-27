@@ -33,7 +33,9 @@
 
 	  
 	<h2>プロフィール</h2>
-	  https://github.com/zhinaiyouman-a11y
+	  <a href="https://github.com/zhinaiyouman-a11y">
+    https://github.com/zhinaiyouman-a11y
+  </a>
 	  <p>上のリンクからプロフィールに行きます</p>
   </body>
 </html>
