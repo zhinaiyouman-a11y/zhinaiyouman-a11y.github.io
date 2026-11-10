@@ -12,6 +12,24 @@
 		    color: #55d6f1;
 		    border-bottom: 1px solid #55d6f1;
 			}
+		.hobby-list {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+			gap: 16px;
+			}
+		.hobby-card {
+			padding: 16px;
+			border: 1px solid #55d6f1;
+			border-radius: 8px;
+			background-color: #f4fbfd;
+			}
+		.hobby-card h3 {
+			margin-top: 0;
+			color: #005E7E;
+			}
+		.hobby-card p {
+			margin-bottom: 0;
+			}
 	</style>
   </head>
   <body>
@@ -30,16 +48,23 @@
 
 	  
 	<h2>趣味・好きなこと</h2>
-	  <p>
-	  ・アニメや漫画を見ること<br>
-	　　ジャンルを問わず、アクション系、ラブコメなどいろいろなものを見ますが,最近はジャンプ系のものにはまっています。<br>
-		  
-	　・バドミントン<br>
-		中学生の時に部活で始めました。部活は中学生の時だけですが、今も友達と時間があるときに体育館を借りてしています。<br>
-		  
-	　・高いところ<br>
-		小さい頃から高いところが好きで、飛行機やジェットコースターなどが好きです。<br>
-	  </p>
+
+	  <div class="hobby-list">
+		<article class="hobby-card">
+		  <h3>アニメや漫画を見ること</h3>
+		  <p>ジャンルを問わず、アクション系、ラブコメなどいろいろなものを見ますが、最近はジャンプ系のものにはまっています。</p>
+		</article>
+
+		<article class="hobby-card">
+		  <h3>バドミントン</h3>
+		  <p>中学生の時に部活で始めました。部活は中学生の時だけですが、今も友達と時間があるときに体育館を借りてしています。</p>
+		</article>
+		
+		<article class="hobby-card">
+		  <h3>高いところ</h3>
+		  <p>小さい頃から高いところが好きで、飛行機やジェットコースターなどが好きです。</p>
+		</article>
+	  </div>
 
 	  
 	<h2>プロフィール</h2>
